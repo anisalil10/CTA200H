@@ -1,5 +1,5 @@
-# CTA200H
-
+# CTA200H 
+testingg
 Welcome to the CTA200H course!
 
 This course is for summer undergraduates performing research in astrophysics at University of Toronto, including but not limited to participants in UofT's CITA Summer Undergraduate Research Fellowship (SURF) and David A Dunlap Department of Astronomy & Astrophysics Summer Undergraduate Research Program (SURP). The goal is to provide training to help students be successful with the computation aspects of their summer research program.
